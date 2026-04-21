@@ -54,6 +54,57 @@ This hub README is intended to:
 - **Collection institution:** Technical University of Munich (TUM)
 - **Citation (dataset creators):** Hilden, S.; Lee, S.; Zauner, J.; Spitschan, M.
 
+
+### 5) `NilssonEtAl_Dataset_2025` (Gothenburg, Sweden)
+
+- **Repository:** https://github.com/MeLiDosProject/NilssonEtAl_Dataset_2025
+- **Zenodo DOI (latest):** not yet documented in this hub
+- **Version notes:** release metadata pending synchronization into this hub
+- **Dataset package size:** not yet documented in this hub
+- **Collection site:** Gothenburg, Sweden
+- **Collection institution:** not yet documented in this hub
+- **Citation (dataset creators):** Nilsson, M.; Zauner, J.; Spitschan, M.
+
+### 6) `AertsEtAl_Dataset_2025` (Delft, The Netherlands)
+
+- **Repository:** https://github.com/MeLiDosProject/AertsEtAl_Dataset_2025
+- **Zenodo DOI (v1.0.0):** https://doi.org/10.5281/zenodo.17979895
+- **Version notes:** initial release currently listed in this hub
+- **Dataset package size:** not yet documented in this hub
+- **Collection site:** Delft, The Netherlands
+- **Collection institution:** not yet documented in this hub
+- **Citation (dataset creators):** Aerts, S.; Jansen, A.; Hogervorst, N.; Boesten, D.; Bolte, J.; Zauner, J.; Spitschan, M.
+
+### 7) `BroszioEtAl_Dataset_2025` (Dortmund, Germany)
+
+- **Repository:** https://github.com/MeLiDosProject/BroszioEtAl_Dataset_2025
+- **Zenodo DOI (v1.0.0):** https://doi.org/10.5281/zenodo.18244467
+- **Version notes:** initial release currently listed in this hub
+- **Dataset package size:** not yet documented in this hub
+- **Collection site:** Dortmund, Germany
+- **Collection institution:** not yet documented in this hub
+- **Citation (dataset creators):** Broszio, K.; Zauner, J.; Spitschan, M.
+
+### 8) `SanchoSalasEtAl_Dataset_2025` (San Pedro, San José, Costa Rica)
+
+- **Repository:** https://github.com/MeLiDosProject/SanchoSalasEtAl_Dataset_2025
+- **Zenodo DOI (latest):** not yet documented in this hub
+- **Version notes:** release metadata pending synchronization into this hub
+- **Dataset package size:** not yet documented in this hub
+- **Collection site:** San Pedro, San José, Costa Rica
+- **Collection institution:** not yet documented in this hub
+- **Citation (dataset creators):** Sancho-Salas, A.; von-Breymann, H.; Zauner, J.; Spitschan, M.
+
+### 9) `DidikogluEtAl_Dataset_2025` (Izmir, Türkiye)
+
+- **Repository:** https://github.com/MeLiDosProject/DidikogluEtAl_Dataset_2025
+- **Zenodo DOI (v1.0.0):** https://doi.org/10.5281/zenodo.16568110
+- **Version notes:** initial release currently listed in this hub
+- **Dataset package size:** not yet documented in this hub
+- **Collection site:** Izmir, Türkiye
+- **Collection institution:** not yet documented in this hub
+- **Citation (dataset creators):** Didikoglu, A.; Akgun, S.G.; Aydin, S.N.; Kayar, Z.; Zauner, J.; Spitschan, M.
+
 ## Companion repository: `melidosData`
 
 The **melidosData** repository should be treated as the companion access/integration layer for the site-level MeLiDos datasets listed above. In project workflows, it is the recommended entry point for reproducible dataset loading, harmonization, and downstream analysis pipelines.
