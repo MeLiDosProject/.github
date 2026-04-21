@@ -9,29 +9,68 @@ license: "CC-BY-4.0"
 authors:
   - family-names: Zauner
     given-names: Johannes
+  - family-names: Aerts
+    given-names: Sam
   - family-names: Agbeshie
     given-names: Gabriel Kwaku
+  - family-names: Akgun
+    given-names: Sena Gulsum
   - family-names: Akuffo
     given-names: Kwadwo Owusu
+  - family-names: Aydin
+    given-names: Sema Nur
+  - family-names: Jansen
+    given-names: Astrid
   - family-names: Baeza Moyano
     given-names: David
+  - family-names: Boesten
+    given-names: Daan
+  - family-names: Bolte
+    given-names: John
+  - family-names: Broszio
+    given-names: Kai
   - family-names: Cantarero García
     given-names: Guadalupe
+  - family-names: Didikoglu
+    given-names: Altug
   - family-names: González Lezcano
     given-names: Roberto Alonso
   - family-names: Guidolin
     given-names: Carolina
   - family-names: Hilden
     given-names: Sarina
+  - family-names: Hogervorst
+    given-names: Nico
+  - family-names: Kayar
+    given-names: Zeynep
   - family-names: Lee
     given-names: Suyoun
   - family-names: Melero Tur
     given-names: Sofía
+  - family-names: Nilsson
+    given-names: Maria
   - family-names: Pérez Gutiérrez
     given-names: María Concepción
+  - family-names: Sancho-Salas
+    given-names: Alejandro
+  - family-names: von-Breymann
+    given-names: Hannah
   - family-names: Spitschan
     given-names: Manuel
 references:
+  - type: dataset
+    title: "Personal light exposure dataset for Gothenburg, Sweden"
+  - type: dataset
+    title: "Personal light exposure dataset for Delft, The Netherlands"
+    doi: "10.5281/zenodo.17979895"
+  - type: dataset
+    title: "Personal light exposure dataset for Dortmund, Germany"
+    doi: "10.5281/zenodo.18244467"
+  - type: dataset
+    title: "Personal light exposure dataset for San Pedro, San José, Costa Rica"
+  - type: dataset
+    title: "Personal light exposure dataset for Izmir, Türkiye"
+    doi: "10.5281/zenodo.16568110"
   - type: dataset
     title: "Personal light exposure dataset for Kumasi, Ghana"
     doi: "10.5281/zenodo.16638654"
