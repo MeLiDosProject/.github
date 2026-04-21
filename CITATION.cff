@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use MeLiDos datasets, please cite this repository and the individual site-level datasets."
+type: dataset
+title: "MeLiDos Project Data Hub"
+version: "1.0.0"
+date-released: "2026-04-21"
+repository-code: "https://github.com/MeLiDosProject/.github"
+license: "CC-BY-4.0"
+authors:
+  - family-names: Zauner
+    given-names: Johannes
+  - family-names: Agbeshie
+    given-names: Gabriel Kwaku
+  - family-names: Akuffo
+    given-names: Kwadwo Owusu
+  - family-names: Baeza Moyano
+    given-names: David
+  - family-names: Cantarero García
+    given-names: Guadalupe
+  - family-names: González Lezcano
+    given-names: Roberto Alonso
+  - family-names: Guidolin
+    given-names: Carolina
+  - family-names: Hilden
+    given-names: Sarina
+  - family-names: Lee
+    given-names: Suyoun
+  - family-names: Melero Tur
+    given-names: Sofía
+  - family-names: Pérez Gutiérrez
+    given-names: María Concepción
+  - family-names: Spitschan
+    given-names: Manuel
+references:
+  - type: dataset
+    title: "Personal light exposure dataset for Kumasi, Ghana"
+    doi: "10.5281/zenodo.16638654"
+  - type: dataset
+    title: "Personal light exposure dataset for Madrid, Spain"
+    doi: "10.5281/zenodo.17303713"
+  - type: dataset
+    title: "Personal light exposure dataset for Tuebingen, Germany"
+    doi: "10.5281/zenodo.16895307"
+  - type: dataset
+    title: "Personal light exposure dataset for Munich, Germany"
+    doi: "10.5281/zenodo.17337841"
