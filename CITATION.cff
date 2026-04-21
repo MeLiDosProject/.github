@@ -7,87 +7,148 @@ date-released: "2026-04-21"
 repository-code: "https://github.com/MeLiDosProject/.github"
 license: "CC-BY-4.0"
 authors:
-  - family-names: Zauner
-    given-names: Johannes
-    affiliation: "MeLiDos Project"
-  - family-names: Aerts
-    given-names: Sam
-    affiliation: "The Hague University of Applied Sciences (THUAS)"
-  - family-names: Agbeshie
-    given-names: Gabriel Kwaku
-    affiliation: "Kwame Nkrumah University of Science and Technology (KNUST)"
-  - family-names: Akgun
-    given-names: Sena Gulsum
-    affiliation: "Izmir Institute of Technology (IZTECH)"
-  - family-names: Akuffo
-    given-names: Kwadwo Owusu
-    affiliation: "Kwame Nkrumah University of Science and Technology (KNUST)"
-  - family-names: Aydin
-    given-names: Sema Nur
-    affiliation: "Izmir Institute of Technology (IZTECH)"
-  - family-names: Jansen
-    given-names: Astrid
-    affiliation: "The Hague University of Applied Sciences (THUAS)"
-  - family-names: Baeza Moyano
-    given-names: David
-    affiliation: "Fundación Universitaria CEU San Pablo (FUSP-CEU)"
-  - family-names: Boesten
-    given-names: Daan
-    affiliation: "The Hague University of Applied Sciences (THUAS)"
-  - family-names: Bolte
-    given-names: John
-    affiliation: "The Hague University of Applied Sciences (THUAS)"
-  - family-names: Broszio
-    given-names: Kai
-    affiliation: "Federal Institute for Occupational Safety and Health (BAuA)"
-  - family-names: Cantarero García
-    given-names: Guadalupe
-    affiliation: "Fundación Universitaria CEU San Pablo (FUSP-CEU)"
-  - family-names: Didikoglu
-    given-names: Altug
-    affiliation: "Izmir Institute of Technology (IZTECH)"
-  - family-names: González Lezcano
-    given-names: Roberto Alonso
-    affiliation: "Fundación Universitaria CEU San Pablo (FUSP-CEU)"
-  - family-names: Guidolin
-    given-names: Carolina
-    affiliation: "Max Planck Institute for Biological Cybernetics (MPI-KYB)"
-  - family-names: Hilden
-    given-names: Sarina
-    affiliation: "Technical University of Munich (TUM)"
-  - family-names: Hogervorst
-    given-names: Nico
-    affiliation: "The Hague University of Applied Sciences (THUAS)"
+  - given-names: Johannes
+    family-names: Zauner
+    email: johannes.zauner@tum.de
+    affiliation: >-
+      Technical University of Munich
+    orcid: 'https://orcid.org/0000-0003-2171-4566'
+  - given-names: Kwadwo Owusu
+    family-names: Akuffo
+    email: akuffokwadwoowusu@knust.edu.gh
+    affiliation: >-
+      Kwame Nkrumah University of Science and Technology
+      (KNUST)
+    orcid: 'https://orcid.org/0000-0001-6683-249X'
+  - given-names: Gabriel Kwaku
+    family-names: Agbeshie
+    email: agbeshiekwakugabriel@gmail.com
+    affiliation: >-
+      Kwame Nkrumah University of Science and Technology
+      (KNUST)
+    orcid: 'https://orcid.org/0009-0009-6135-7111'
+  - given-names: Andrea
+    family-names: Sancho-Salas
+    email: andrea.sancho_s@ucr.ac.cr
+    affiliation: Universidad de Costa Rica
+    orcid: 'https://orcid.org/0000-0002-6566-2772'
+  - given-names: Helga
+    family-names: von-Breymann
+    email: helga.vonbreymann@ucr.ac.cr
+    orcid: 'https://orcid.org/0000-0002-6841-5953'
+    affiliation: Universidad de Costa Rica
+  - given-names: Altug
+    family-names: Didikoglu
+    orcid: 'https://orcid.org/0000-0002-5582-6956'
+    affiliation: 'Izmir Institute of Technology, Izmir, Türkiye'
+    email: altugdidikoglu@iyte.edu.tr
+  - given-names: Sena Gulsum
+    family-names: Akgun
+    affiliation: 'Izmir Institute of Technology, Izmir, Türkiye'
+  - given-names: Sema Nur
+    family-names: Aydin
+    affiliation: 'Izmir Institute of Technology, Izmir, Türkiye'
   - family-names: Kayar
     given-names: Zeynep
-    affiliation: "Izmir Institute of Technology (IZTECH)"
-  - family-names: Källberg
-    given-names: Stefan
-    affiliation: "Research Institutes of Sweden (RISE)"
-  - family-names: Lee
-    given-names: Suyoun
-    affiliation: "Technical University of Munich (TUM)"
-  - family-names: Melero Tur
-    given-names: Sofía
-    affiliation: "Fundación Universitaria CEU San Pablo (FUSP-CEU)"
-  - family-names: Nilsson Tengelin
-    given-names: Maria
-    affiliation: "Research Institutes of Sweden (RISE)"
-  - family-names: Pérez Gutiérrez
-    given-names: María Concepción
-    affiliation: "Fundación Universitaria CEU San Pablo (FUSP-CEU)"
-  - family-names: Sancho-Salas
-    given-names: Alejandro
-    affiliation: "Universidad de Costa Rica (UCR)"
-  - family-names: Spitschan
-    given-names: Manuel
-    affiliation: "MeLiDos Project"
-  - family-names: Svensson
-    given-names: Ida
-    affiliation: "Research Institutes of Sweden (RISE)"
-  - family-names: von-Breymann
-    given-names: Hannah
-    affiliation: "Universidad de Costa Rica (UCR)"
+    affiliation: 'Izmir Institute of Technology, Izmir, Türkiye'
+  - given-names: David
+    family-names: Baeza Moyano
+    email: baezams@ceu.es
+    affiliation: >-
+      Fundación Universitaria CEU San Pablo, Boadilla del
+      Monte, Madrid, Spain
+    orcid: 'https://orcid.org/0000-0001-8395-9994'
+  - given-names: María Concepción
+    family-names: Pérez Gutiérrez
+    email: cperez.eps@ceu.es
+    affiliation: >-
+      Fundación Universitaria CEU San Pablo, Boadilla del
+      Monte, Madrid, Spain
+    orcid: 'https://orcid.org/0000-0003-0963-6147'
+  - given-names: Guadalupe
+    family-names: Cantarero García
+    email: gcgarcia@ceu.es
+    orcid: 'https://orcid.org/0000-0003-3169-8547'
+    affiliation: >-
+      Fundación Universitaria CEU San Pablo, Boadilla del
+      Monte, Madrid, Spain
+  - given-names: Roberto Alonso
+    family-names: González Lezcano
+    email: rgonzalezcano@ceu.es
+    affiliation: >-
+      Fundación Universitaria CEU San Pablo, Boadilla del
+      Monte, Madrid, Spain
+    orcid: 'https://orcid.org/0000-0002-6185-4929'
+  - given-names: Sofía
+    family-names: Melero Tur
+    email: sofia.melerotur@ceu.es
+    affiliation: >-
+      Fundación Universitaria CEU San Pablo, Boadilla del
+      Monte, Madrid, Spain
+    orcid: 'https://orcid.org/0000-0002-5902-4539'
+  - given-names: Sarina
+    family-names: Hilden
+    email: ge42god@mytum.de
+    affiliation: >-
+      Technical University of Munich, Munich, Germany
+  - given-names: Suyoun
+    family-names: Lee
+    affiliation: >-
+      Technical University of Munich, Munich, Germany
+  - given-names: Carolina
+    family-names: Guidolin
+    email: carolina.guidolin@tuebingen.mpg.de
+    affiliation: >-
+      Max Planck Institute for Biological Cybernetics;
+      Technical University of Munich, Germany
+    orcid: 'https://orcid.org/0009-0007-4959-2667'
+  - given-names: Kai
+    family-names: Broszio
+    email: broszio.kai@baua.bund.de
+    affiliation: >-
+      Federal Institute for Occupational Safety and Health
+      (BAuA)
+    orcid: 'https://orcid.org/0000-0002-8269-8654'
+  - given-names: Sam
+    family-names: Aerts
+    affiliation: The Hague University of Applied Sciences
+    email: s.h.aerts@hhs.nl
+  - given-names: Astrid
+    family-names: Astrid Jansen
+    affiliation: The Hague University of Applied Sciences
+    email: a.p.jansen@hhs.nl
+  - given-names: Nico
+    family-names: Hogervorst
+    affiliation: The Hague University of Applied Sciences
+  - family-names: Boesten
+    given-names: Daan
+    affiliation: The Hague University of Applied Sciences
+  - given-names: John
+    family-names: Bolte
+    affiliation: The Hague University of Applied Sciences
+  - given-names: Maria
+    family-names: Nilsson Tengelin
+    email: maria.nilssontengelin@ri.se
+    affiliation: RISE Research Institutes of Sweden
+    orcid: 'https://orcid.org/0000-0002-0909-626X'
+  - given-names: Ingemar
+    family-names: Svensson
+    email: ingemar.svensson@ri.se
+    affiliation: RISE Research Institutes of Sweden
+    orcid: 'https://orcid.org/0009-0006-9283-509X'
+  - given-names: Stefan
+    family-names: Källberg
+    email: stefan.kallberg@ri.se
+    orcid: 'https://orcid.org/0009-0003-8259-3400'
+    affiliation: RISE Research Institutes of Sweden
+  - given-names: Manuel
+    family-names: Spitschan
+    email: manuel.spitschan@tum.de
+    affiliation: >-
+      Technical University of Munich; Max Planck Institute
+      for Biological Cybernetics; TUM Institute for Advanced
+      Study (TUM-IAS)
+    orcid: 'https://orcid.org/0000-0002-8572-9268'
 references:
   - type: dataset
     title: "Personal light exposure dataset for Gothenburg, Sweden"
