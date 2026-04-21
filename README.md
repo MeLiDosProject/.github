@@ -10,15 +10,15 @@ The [MeLiDos field study](https://github.com/MeLiDosProject) datasets contain we
 
 | Institution (site Abbr.) | City | Country | Repository | DOI |
 |----------|----------|-------------|--------------------------|---------------------|
-| RISE | Borås | Sweden | [NilssonTengelinEtAl_Dataset_2026](https://github.com/MeLiDosProject/NilssonTengelinEtAl_Dataset_2026) | 10.5281/zenodo.18925834 |
-| THUAS | Delft | The Netherlands | [AertsEtAl_Dataset_2025](https://github.com/MeLiDosProject/AertsEtAl_Dataset_2025) | 10.5281/zenodo.17979893 |
-| BAUA | Dortmund | Germany | [BroszioEtAl_Dataset_2025](https://github.com/MeLiDosProject/BroszioEtAl_Dataset_2025) | 10.5281/zenodo.18111232 |
-| MPI | Tübingen | Germany | [GuidolinEtAl_Dataset_2025](https://github.com/MeLiDosProject/GuidolinEtAl_Dataset_2025) | 10.5281/zenodo.16895188 |
-| TUM | Munich | Germany | [HildenEtAl_Dataset_2025](https://github.com/MeLiDosProject/HildenEtAl_Dataset_2025) | 10.5281/zenodo.16893901 |
-| FUSPCEU | Madrid | Spain | [BaezaEtAl_Dataset_2025](https://github.com/MeLiDosProject/BaezaEtAl_Dataset_2025) | 10.5281/zenodo.16834951 |
-| IZTECH | Izmir | Turkey | [DidikogluEtAl_Dataset_2025](https://github.com/MeLiDosProject/DidikogluEtAl_Dataset_2025) | 10.5281/zenodo.16568109 |
-| UCR | San José | Costa Rica | [Sancho-SalasEtAl_Dataset_2025](https://github.com/MeLiDosProject/Sancho-SalasEtAl_Dataset_2025) | 10.5281/zenodo.17289456 |
 | KNUST | Kumasi | Ghana | [AkuffoEtAl_Dataset_2025](https://github.com/MeLiDosProject/AkuffoEtAl_Dataset_2025) | 10.5281/zenodo.15576731 |
+| UCR | San José | Costa Rica | [Sancho-SalasEtAl_Dataset_2025](https://github.com/MeLiDosProject/Sancho-SalasEtAl_Dataset_2025) | 10.5281/zenodo.17289456 |
+| IZTECH | Izmir | Turkey | [DidikogluEtAl_Dataset_2025](https://github.com/MeLiDosProject/DidikogluEtAl_Dataset_2025) | 10.5281/zenodo.16568109 |
+| FUSPCEU | Madrid | Spain | [BaezaEtAl_Dataset_2025](https://github.com/MeLiDosProject/BaezaEtAl_Dataset_2025) | 10.5281/zenodo.16834951 |
+| TUM | Munich | Germany | [HildenEtAl_Dataset_2025](https://github.com/MeLiDosProject/HildenEtAl_Dataset_2025) | 10.5281/zenodo.16893901 |
+| MPI | Tübingen | Germany | [GuidolinEtAl_Dataset_2025](https://github.com/MeLiDosProject/GuidolinEtAl_Dataset_2025) | 10.5281/zenodo.16895188 |
+| BAUA | Dortmund | Germany | [BroszioEtAl_Dataset_2025](https://github.com/MeLiDosProject/BroszioEtAl_Dataset_2025) | 10.5281/zenodo.18111232 |
+| THUAS | Delft | The Netherlands | [AertsEtAl_Dataset_2025](https://github.com/MeLiDosProject/AertsEtAl_Dataset_2025) | 10.5281/zenodo.17979893 |
+| RISE | Borås | Sweden | [NilssonTengelinEtAl_Dataset_2026](https://github.com/MeLiDosProject/NilssonTengelinEtAl_Dataset_2026) | 10.5281/zenodo.18925834 |
 
 : Overview of the available sites in the package
 
@@ -53,7 +53,29 @@ This hub README is intended to:
 - **Dataset creators:** Akuffo, K.O.; Agbeshie, G.K.; Zauner, J.; Spitschan, M.
 - **Citation:** Akuffo, K. O., Agbeshie, G. K., Zauner, J., & Spitschan, M. (2025). Personal light exposure dataset for Kumasi, Ghana (Version 1.0.1) [Data set]. URL: https://github.com/MeLiDosProject/AkuffoEtAl_Dataset_2025. DOI: doi.org/10.5281/zenodo.15576731
 
-### 2) `BaezaEtAl_Dataset_2025` (Madrid, Spain)
+### 2) `SanchoSalasEtAl_Dataset_2025` (San Pedro, San José, Costa Rica)
+
+<img src="assets/logo_UCR.png" width="300"/>
+
+- **Repository:** https://github.com/MeLiDosProject/SanchoSalasEtAl_Dataset_2025
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.17289456
+- **Collection site:** San Pedro, San José, Costa Rica
+- **Collection institution:**  Universidad de Costa Rica (UCR)
+- **Dataset creators:** Sancho-Salas, A.; von-Breymann, H.; Zauner, J.; Spitschan, M.
+- **Citation:** Sancho-Salas, A., von-Breymann, H., Zauner, J., & Spitschan, M., (2025). Personal light exposure dataset for San Pedro, San José, Costa Rica (Version 1.0.0) [Data set]. URL: https://github.com/MeLiDosProject/Sancho-SalasEtAl_Dataset_2025. DOI: 10.5281/zenodo.17289456
+
+### 3) `DidikogluEtAl_Dataset_2025` (Izmir, Türkiye)
+
+<img src="assets/logo_IZTECH.png" width="200"/>
+
+- **Repository:** https://github.com/MeLiDosProject/DidikogluEtAl_Dataset_2025
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.16568109
+- **Collection site:** Izmir, Türkiye
+- **Collection institution:** Izmir Institute of Technology (IZTECH)
+- **Dataset creators:** Didikoglu, A.; Akgun, S.G.; Aydin, S.N.; Kayar, Z.; Zauner, J.; Spitschan, M.
+- **Citation:** Didikoglu, A., Akgun, S. G., Aydin, S. N., Kayar, Z., Zauner, J., & Spitschan, M. (2025). Personal light exposure dataset for Izmir, Türkiye (Version 1.0.1) [Data set]. URL: https://github.com/MeLiDosProject/DidikogluEtAl_Dataset_2025. DOI: doi.org/10.5281/zenodo.16568109
+
+### 4) `BaezaEtAl_Dataset_2025` (Madrid, Spain)
 
 <img src="assets/logo_FUSPCEU.png" width="300"/>
 
@@ -64,19 +86,7 @@ This hub README is intended to:
 - **Dataset creators:** Baeza Moyano, D.; Pérez Gutiérrez, M.C.; Cantarero García, G.; González Lezcano, R.A.; Melero Tur, S.; Zauner, J.; Spitschan, M.
 - **Citation:** Baeza Moyano, D., Pérez Gutiérrez, M. C., Cantarero García, G., González Lezcano, R. A., Melero Tur, S., Zauner, J., & Spitschan, M. (2025). Personal light exposure dataset for Madrid, Spain (Version 1.0.1) [Data set]. URL: https://github.com/MeLiDosProject/BaezaEtAl_Dataset_2025. DOI: doi.org/10.5281/zenodo.16834951
 
-### 3) `GuidolinEtAl_Dataset_2025` (Tuebingen, Germany)
-
-<img src="assets/logo_MPI.jpg" width="300"/>
-
-- **Repository:** https://github.com/MeLiDosProject/GuidolinEtAl_Dataset_2025
-- **Zenodo DOI:** https://doi.org/10.5281/zenodo.16895188
-- **Collection site:** Tuebingen, Germany
-- **Collection institution:** Max Planck Institute for Biological Cybernetics (MPI-KYB)
-- **Protocol note:** legacy/pre-protocol dataset used to shape later MeLiDos protocolized datasets
-- **Dataset creators:** Guidolin, C.; Zauner, J.; Spitschan, M.
-- **Citation:** Guidolin, C., Zauner, J., & Spitschan, M., (2025). Personal light exposure dataset for Tuebingen, Germany (Version 1.0.0) [Data set]. URL: https://github.com/MeLiDosProject/GuidolinEtAl_Dataset_2025. DOI: doi.org/10.5281/zenodo.16895188
-
-### 4) `HildenEtAl_Dataset_2025` (Munich, Germany)
+### 5) `HildenEtAl_Dataset_2025` (Munich, Germany)
 
 <img src="assets/logo_TUM.png" width="300"/>
 
@@ -87,27 +97,17 @@ This hub README is intended to:
 - **Dataset creators:** Hilden, S.; Lee, S.; Zauner, J.; Spitschan, M.
 - **Citation:** Hilden, S., Lee, S., Zauner, J., & Spitschan, M., (2025). Personal light exposure dataset for Munich, Germany (Version 1.0.1) [Data set]. URL: https://github.com/MeLiDosProject/HildenEtAl_Dataset_2025. DOI: doi.org/10.5281/zenodo.16893901
 
-### 5) `NilssonEtAl_Dataset_2025` (Borås, Sweden)
+### 6) `GuidolinEtAl_Dataset_2025` (Tuebingen, Germany)
 
-<img src="assets/logo_RISE.png" width="200"/>
+<img src="assets/logo_MPI.jpg" width="300"/>
 
-- **Repository:** https://github.com/MeLiDosProject/NilssonEtAl_Dataset_2025
-- **Zenodo DOI (latest):** https://doi.org/10.5281/zenodo.18925834
-- **Collection site:** Borås, Sweden
-- **Collection institution:** Research Institutes of Sweden (RISE)
-- **Dataset creators:** Nilsson Tengelin, M., Svensson, I., Källberg, S., Zauner, J., & Spitschan, M.
-- **Citation:** Nilsson Tengelin, M., Svensson, I., Källberg, S., Zauner, J., & Spitschan, M. (2026). Personal light exposure dataset for Borås, Sweden (Version 1.0.0) [Data set]. URL: https://github.com/MeLiDosProject/NilssonTengelinEtAl_Dataset_2026. DOI: doi.org/10.5281/zenodo.18925834
-
-### 6) `AertsEtAl_Dataset_2025` (Delft, The Netherlands)
-
-<img src="assets/logo_THUAS.png" width="300"/>
-
-- **Repository:** https://github.com/MeLiDosProject/AertsEtAl_Dataset_2025
-- **Zenodo DOI:** https://doi.org/10.5281/zenodo.17979893
-- **Collection site:** Delft, The Netherlands
-- **Collection institution:** not yet documented in this hub
-- **Dataset creators:** Aerts, S.; Jansen, A.; Hogervorst, N.; Boesten, D.; Bolte, J.; Zauner, J.; Spitschan, M.
-- **Citation:** Aerts, S., Jansen, A., Hogervorst, N., Boesten, D., Bolte, J., Zauner, J., & Spitschan, M. (2025). Personal light exposure dataset for Delft, The Netherlands (Version 1.0.0) [Data set]. URL: https://github.com/MeLiDosProject/AertsEtAl_Dataset_2025. DOI: 10.5281/zenodo.17979893
+- **Repository:** https://github.com/MeLiDosProject/GuidolinEtAl_Dataset_2025
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.16895188
+- **Collection site:** Tuebingen, Germany
+- **Collection institution:** Max Planck Institute for Biological Cybernetics (MPI-KYB)
+- **Protocol note:** legacy/pre-protocol dataset used to shape later MeLiDos protocolized datasets
+- **Dataset creators:** Guidolin, C.; Zauner, J.; Spitschan, M.
+- **Citation:** Guidolin, C., Zauner, J., & Spitschan, M., (2025). Personal light exposure dataset for Tuebingen, Germany (Version 1.0.0) [Data set]. URL: https://github.com/MeLiDosProject/GuidolinEtAl_Dataset_2025. DOI: doi.org/10.5281/zenodo.16895188
 
 ### 7) `BroszioEtAl_Dataset_2025` (Dortmund, Germany)
 
@@ -120,27 +120,27 @@ This hub README is intended to:
 - **Dataset creators:** Broszio, K.; Zauner, J.; Spitschan, M.
 - **Citation:** Broszio, K., Zauner, J., & Spitschan, M. (2025). Personal light exposure dataset for Dortmund, Germany (Version 1.0.0) [Data set]. URL: https://github.com/MeLiDosProject/BroszioEtAl_Dataset_2025. DOI: doi.org/10.5281/zenodo.18111232
 
-### 8) `SanchoSalasEtAl_Dataset_2025` (San Pedro, San José, Costa Rica)
+### 8) `AertsEtAl_Dataset_2025` (Delft, The Netherlands)
 
-<img src="assets/logo_UCR.png" width="300"/>
+<img src="assets/logo_THUAS.png" width="300"/>
 
-- **Repository:** https://github.com/MeLiDosProject/SanchoSalasEtAl_Dataset_2025
-- **Zenodo DOI:** https://doi.org/10.5281/zenodo.17289456
-- **Collection site:** San Pedro, San José, Costa Rica
-- **Collection institution:**  Universidad de Costa Rica (UCR)
-- **Dataset creators:** Sancho-Salas, A.; von-Breymann, H.; Zauner, J.; Spitschan, M.
-- **Citation:** Sancho-Salas, A., von-Breymann, H., Zauner, J., & Spitschan, M., (2025). Personal light exposure dataset for San Pedro, San José, Costa Rica (Version 1.0.0) [Data set]. URL: https://github.com/MeLiDosProject/Sancho-SalasEtAl_Dataset_2025. DOI: 10.5281/zenodo.17289456
+- **Repository:** https://github.com/MeLiDosProject/AertsEtAl_Dataset_2025
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.17979893
+- **Collection site:** Delft, The Netherlands
+- **Collection institution:** not yet documented in this hub
+- **Dataset creators:** Aerts, S.; Jansen, A.; Hogervorst, N.; Boesten, D.; Bolte, J.; Zauner, J.; Spitschan, M.
+- **Citation:** Aerts, S., Jansen, A., Hogervorst, N., Boesten, D., Bolte, J., Zauner, J., & Spitschan, M. (2025). Personal light exposure dataset for Delft, The Netherlands (Version 1.0.0) [Data set]. URL: https://github.com/MeLiDosProject/AertsEtAl_Dataset_2025. DOI: 10.5281/zenodo.17979893
 
-### 9) `DidikogluEtAl_Dataset_2025` (Izmir, Türkiye)
+### 9) `NilssonEtAl_Dataset_2025` (Borås, Sweden)
 
-<img src="assets/logo_IZTECH.png" width="200"/>
+<img src="assets/logo_RISE.png" width="200"/>
 
-- **Repository:** https://github.com/MeLiDosProject/DidikogluEtAl_Dataset_2025
-- **Zenodo DOI:** https://doi.org/10.5281/zenodo.16568109
-- **Collection site:** Izmir, Türkiye
-- **Collection institution:** Izmir Institute of Technology (IZTECH)
-- **Dataset creators:** Didikoglu, A.; Akgun, S.G.; Aydin, S.N.; Kayar, Z.; Zauner, J.; Spitschan, M.
-- **Citation:** Didikoglu, A., Akgun, S. G., Aydin, S. N., Kayar, Z., Zauner, J., & Spitschan, M. (2025). Personal light exposure dataset for Izmir, Türkiye (Version 1.0.1) [Data set]. URL: https://github.com/MeLiDosProject/DidikogluEtAl_Dataset_2025. DOI: doi.org/10.5281/zenodo.16568109
+- **Repository:** https://github.com/MeLiDosProject/NilssonEtAl_Dataset_2025
+- **Zenodo DOI (latest):** https://doi.org/10.5281/zenodo.18925834
+- **Collection site:** Borås, Sweden
+- **Collection institution:** Research Institutes of Sweden (RISE)
+- **Dataset creators:** Nilsson Tengelin, M., Svensson, I., Källberg, S., Zauner, J., & Spitschan, M.
+- **Citation:** Nilsson Tengelin, M., Svensson, I., Källberg, S., Zauner, J., & Spitschan, M. (2026). Personal light exposure dataset for Borås, Sweden (Version 1.0.0) [Data set]. URL: https://github.com/MeLiDosProject/NilssonTengelinEtAl_Dataset_2026. DOI: doi.org/10.5281/zenodo.18925834
 
 ## Companion repository: `melidosData`
 
