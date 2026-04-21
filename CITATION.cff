@@ -149,6 +149,10 @@ authors:
       for Biological Cybernetics; TUM Institute for Advanced
       Study (TUM-IAS)
     orcid: 'https://orcid.org/0000-0002-8572-9268'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19678543
+    description: Zenodo Archive (latest version)
 references:
   - type: dataset
     title: "Personal light exposure dataset for Gothenburg, Sweden"

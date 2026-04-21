@@ -2,11 +2,13 @@
 
 <img src="assets/logo_banner.png"/>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19678544.svg)](https://doi.org/10.5281/zenodo.19678544)
+
 # MeLiDos field study
 
 The [MeLiDos field study](https://github.com/MeLiDosProject) datasets contain wearable data for personal light exposure at the eye, chest, and wrist level for **191 participants across 9 sites and 7 countries, capturing 1480 participant days of annotated data**. Through a host of questionnaires at screening and discharge time, ecological momentary assessment, diaries, and logs, extensive auxiliary data are available.
 
-![Measurement sites in the MeLiDos project](assets/map.png){width="80%"}
+![Measurement sites in the MeLiDos project](assets/map.png)
 
 | Institution (site Abbr.) | City | Country | Repository | DOI |
 |----------|----------|-------------|--------------------------|---------------------|
@@ -27,6 +29,10 @@ The [MeLiDos field study](https://github.com/MeLiDosProject) datasets contain we
 # MeLiDos Project Data Hub
 
 This repository provides a project-level overview of the MeLiDos datasets, with a focus on the site-specific personal light exposure datasets and their citation metadata.
+
+Cite as:
+
+> Zauner, J., Akuffo, K. O., Agbeshie, G. K., Sancho-Salas, A., von-Breymann, H., Didikoglu, A., Akgun, S. G., Aydin, S. N., Kayar, Z., Baeza Moyano, D., Pérez Gutiérrez, M. C., Cantarero García, G., González Lezcano, R. A., Melero Tur, S., Hilden, S., Lee, S., Guidolin, C., Broszio, K., Aerts, S., Jansen, A., Hogervorst, N., Boesten, D., Bolte, J., Nilsson Tengelin, M., Svensson, I., Källberg, S., & Spitschan, M. (2026). MeLiDos Project Data Hub (Version 1.0.0) [Data set]. GitHub. https://github.com/MeLiDosProject/.github. DOI: 10.5281/zenodo.19678543
 
 ## Scope
 
