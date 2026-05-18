@@ -43,8 +43,9 @@ This hub README is intended to:
 
 - summarize the dataset repositories in one place,
 - provide citation-ready references for each dataset,
-- document key per-dataset details (site, version, DOI, file size, and lead institutions), and
-- point to the companion **melidosData** repository for downstream data access workflows.
+- document key per-dataset details (site, version, DOI, file size, and lead institutions),
+- point to the companion **melidosData** repository for downstream data access workflows, and
+- direct readers to the shared codebooks that describe how raw data columns map to the MeLiDos metadata conventions.
 
 ## Dataset repositories (MeLiDosProject)
 
@@ -153,6 +154,19 @@ This hub README is intended to:
 <img src="assets/logo.png" width="200"/>
 
 The [**melidosData**](https://melidosproject.github.io/melidosData/) repository should be treated as the companion access/integration layer for the site-level MeLiDos datasets listed above. In project workflows, it is the recommended entry point for reproducible dataset loading, harmonization, and downstream analysis pipelines.
+
+
+## Codebooks and metadata conventions
+
+The shared MeLiDos data and metadata conventions are documented in the [**Data_Metadata_Conventions**](https://github.com/MeLiDosProject/Data_Metadata_Conventions) repository. Its [`codebook/`](https://github.com/MeLiDosProject/Data_Metadata_Conventions/tree/main/codebook) directory contains the project codebooks/data dictionaries for protocol components such as questionnaires, diaries, logs, and current-conditions reports.
+
+Use these codebooks when interpreting raw files from the site-level dataset repositories:
+
+- **Where they sit:** `Data_Metadata_Conventions/codebook/` in the MeLiDosProject GitHub organization.
+- **What they provide:** one CSV data dictionary per protocol instrument, including the expected variable names and metadata needed to understand each field.
+- **How to use them:** map the raw data columns in each site-level dataset to the corresponding codebook entries to recover the standardized MeLiDos variable definitions, labels, response options, and related metadata conventions.
+
+For example, columns from raw screening questionnaire, intake questionnaire, discharge questionnaire, morning sleep diary, evening diary, experience log, wear log, or current-conditions files should be cross-referenced against the matching `*_DataDictionary_*.csv` file in the `codebook/` directory before analysis or harmonization.
 
 ## Consolidated citation guidance
 
