@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "MeLiDos"
+  favicon: profile/assets/logo.png
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Data Access
+        href: data-access-form.qmd
+      - text: Collaborators
+        href: collaborators.qmd
+      - text: Materials
+        href: materials.qmd
+      - text: News
+        href: news.qmd
+      - text: Stakeholders
+        href: stakeholders.qmd
+      - text: Acknowledgements
+        href: acknowledgements.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/MeLiDosProject/.github
+  page-footer:
+    left: "© MeLiDos Consortium"
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 2

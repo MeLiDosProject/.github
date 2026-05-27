@@ -1,0 +1,9 @@
+---
+title: "MeLiDos First Stakeholder Meeting"
+---
+
+This page corresponds to the stakeholder subpage from the export.
+
+::: {.callout-note}
+The source XML contains mostly layout containers for this page and limited body content. Add meeting schedule, recording links, and materials here.
+:::

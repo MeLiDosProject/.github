@@ -1,0 +1,11 @@
+---
+title: "Acknowledgements"
+---
+
+The MeLiDos consortium acknowledges all partner institutions, collaborators, and participating contributors.
+
+![](profile/assets/logo_with_text-01.png){style="max-width: 320px;"}
+
+::: {.callout-note}
+The original page included visual/section styling that is not fully represented in the export. Keep this page as a maintained acknowledgements section.
+:::

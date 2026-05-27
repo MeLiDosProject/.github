@@ -1,0 +1,87 @@
+---
+title: "Collaborators"
+---
+
+## Organizations
+
+- [Izmir Institute of Technology](https://en.iyte.edu.tr/)
+- [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/)
+- Scienterra Ltd
+- [Sunsense](https://sunsense.com/)
+- [sglux GmbH](https://www.sglux.de/en/)
+- [University Hospital, RWTH Aachen University](https://www.ukaachen.de/en/)
+
+## Collaborator profiles (content-preserving Quarto adaptation)
+
+For sections that do not map cleanly from Squarespace, a robust migration path is to represent each collaborator as a Quarto card/callout block, preserving text first and refining style later.
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-note appearance="simple"}
+### Altug Didikoglu (IZTECH)
+Member of the Chronobiology Laboratory research group and Assistant Professor in Neuroscience at IZTECH, focusing on sleep/circadian biology and real-world light exposure. Collaborates on field light-exposure measurement and analysis.
+
+**Contact person:** Altug Didikoglu  
+**Involved researcher:** Sema Nur Aydin
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-note appearance="simple"}
+### KNUST team
+KNUST (Kumasi, Ghana) contributes expertise from optometry and visual science, including work on environmental vision and personal light exposure characteristics.
+
+**Contact person:** Kwadwo Owusu Akuffo
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-note appearance="simple"}
+### Scienterra Ltd
+Scienterra develops scientific UV instrumentation and contributes experience as equipment supplier and innovator in personal harmful-radiation exposure measurement.
+
+**Contact person:** Zim Sherman
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-note appearance="simple"}
+### sglux GmbH
+sglux provides long-standing UV sensor development, production, and calibration expertise; contribution centers on practical dosimetry and sensor characterization.
+
+**Contact person:** Niklas Papathanasiou
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-note appearance="simple"}
+### SunSense
+SunSense contributes expertise from portable UV tracking, including practical insights for UV dosimetry characterization in everyday settings.
+
+**Contact person:** Åsulv Tønnesland
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-note appearance="simple"}
+### University Hospital RWTH Aachen
+Clinical and translational collaboration for light-exposure and dosimetry use cases.
+
+**Contact:** See institutional webpage for team details.
+:::
+:::
+:::
+
+## Logos used in this repository
+
+::: {.logo-grid}
+![](profile/assets/logo_MPI.jpg)
+![](profile/assets/logo_UCR.png)
+![](profile/assets/logo_KNUST.png)
+![](profile/assets/logo_BAUA.png)
+![](profile/assets/logo_THUAS.png)
+![](profile/assets/logo_IZTECH.png)
+![](profile/assets/logo_FUSPCEU.png)
+![](profile/assets/logo_RISE.png)
+![](profile/assets/logo_TUM.png)
+:::

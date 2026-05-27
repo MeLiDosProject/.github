@@ -1,0 +1,19 @@
+---
+title: "Data access & inquiry"
+---
+
+The original page used an embedded form that does not translate directly from Squarespace export content.
+
+## Request access
+
+Please send data access and collaboration inquiries to the project lead:
+
+- **Email:** [Fabien.Eloi@lne.fr](mailto:Fabien.Eloi@lne.fr?subject=MeLiDos%20Data%20Access%20Inquiry)
+
+Include the following details in your email:
+
+- Name and institution
+- Requested dataset(s)
+- Intended research use
+- Ethics/compliance status
+- Timeline and funding context (if relevant)

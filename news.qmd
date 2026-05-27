@@ -1,0 +1,23 @@
+---
+title: "News"
+---
+
+## Summer 2025 - Newsletter #4 and CIE midterm meeting in Vienna
+
+Project update and newsletter publication around CIE midterm activities.
+
+## March 2025 - Publication of the 3rd Newsletter: Update at midterm
+
+Midterm progress update published as newsletter #3.
+
+## May 2024 - MeLiDos WP3 update: Insights into spatially resolved light logging devices
+
+Work Package 3 update on spatially resolved methods.
+
+## 19 June 2023 - Kick-off meeting at LNE in Paris
+
+Official project kickoff communication.
+
+::: {.callout-note}
+These entries are reconstructed from WordPress post titles in the XML export. If full article bodies are desired, they can be added as individual Quarto posts under a `news/` directory.
+:::

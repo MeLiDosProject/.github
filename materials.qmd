@@ -1,0 +1,38 @@
+---
+title: "Project Materials"
+---
+
+Free to download. Also have a look at resources and the project repositories.
+
+## Project Flyer
+- [Project flyer PDF](/s/2024_01-22NRM05_MELIDOS_flyer_20231110_DR1_FSPCEU_FINAL-VERSION.pdf)
+
+## Newsletters
+- [2024-01 Newsletter](/s/2024_02-22NRM05_COM_MELIDOS_NEWSLETTER_N1_20240115_FSPCEU-LNE_FIN.pdf)
+- [2024-07 Newsletter](/s/2024-07-22NRM05_COM_MELIDOS_NEWSLETTER.pdf)
+- [2025-02 Newsletter](/s/MELIDOS_NEWSLETTER_3.pdf)
+- [2025-08 Newsletter](/s/MeLiDos_newsletter-4.pdf)
+
+## Stakeholders
+- [Stakeholder Meeting 2023 Intro](/s/2023_01-22NRM05_411_PRE_SCMeeting_Intro_v11_20240109_FIN.pdf)
+- [Stakeholder Meeting 2023 Work Package Device Standards](/s/2023_02-22NRM05_411_PRE_Workshop1-WP1_v11_20240116_FIN.pdf)
+- [Stakeholder Meeting 2023 Work Package Data Analysis](/s/2023_03-22NRM05_411_PRE_Workshop1-WP2_v1_20231128_FIN.pdf)
+- [Stakeholder Meeting 2023 Work Package Future Devices](/s/2023_04-22NRM05_411_PRE_Workshop1-WP3_v11_20231130_FIN.pdf)
+
+## Publishable Summaries
+- [Project Summary 2023/09](/s/2023_00-22NRM05_531_OFF_PublishableSummary-M1_v3_20230630_FIN_accepted.pdf)
+- [Project Summary 2024/05](/s/22NRM05_PublishableSummary-M9_v31_accepted.pdf)
+- [Project Summary 2024/11](/s/22NRM05_PublishableSummary-M18_v11_20241204-1.pdf)
+
+## Publications and Preprints
+- [Illuminating the future of wearable light metrology](https://doi.org/10.1016/j.measurement.2024.114909)
+- [Metadata recommendations for light logging and dosimetry datasets](https://bmcdigitalhealth.biomedcentral.com/articles/10.1186/s44247-024-00113-9)
+- [Protocol for a prospective, multi-centric, cross-sectional cohort study to assess personal light exposure](https://doi.org/10.1186/s12889-024-20206-4)
+- [Power analysis for personal light exposure measurements and interventions](https://doi.org/10.1371/journal.pone.0308768)
+- [LightLogR: Reproducible analysis of personal light exposure data with an open-source R package](https://doi.org/10.21105/joss.07601)
+- [Wearable Light Loggers in Field Conditions: Corneal Light Characteristics, User Compliance, and Acceptance](https://doi.org/10.3390/clockssleep6040042)
+- [Spectral characterization of three wearable electronic ultraviolet radiation dosimeters](https://doi.org/10.1111/php.70085)
+- [Impact of light logger and dosimeter placement on wearability and appeal in real-life settings](https://doi.org/10.12688/openreseurope.20985.1)
+- [How to Deal With Darkness: Modeling and Visualization of Zero-Inflated Personal Light Exposure Data on a Logarithmic Scale](https://doi.org/10.1177/07487304251336624)
+- [Ocular light and optical radiation exposure as a modifiable environmental determinant of health: expert consensus on research gaps and priorities](https://doi.org/10.1186/s12916-025-04608-8)
+- [Additional consortium publication](https://doi.org/10.1038/s44323-025-00067-9)

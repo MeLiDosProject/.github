@@ -1,0 +1,29 @@
+---
+title: "Contact Us"
+---
+
+## Project Lead and Coordination
+
+- Contact: LNE
+- Email: [Fabien.Eloi@lne.fr](mailto:Fabien.Eloi@lne.fr?subject=MeLiDos)
+
+## Work Package 1
+
+Characterisation methods and quality indices adapted to light/UV logging devices.
+
+- Contact: RISE
+- Email: [maria.nilssontengelin@ri.se](mailto:maria.nilssontengelin@ri.se?cc=stefan.kallberg%40ri.se&subject=MeLiDos)
+
+## Work Package 2
+
+Recommendations for wearable light logger usage based on use case studies: data collection, verification, analysis and summary metrics.
+
+- Contact: TUM
+- Email: [manuel.spitschan@tum.de](mailto:manuel.spitschan@tum.de?cc=johannes.zauner%40tum.de&subject=MeLiDos)
+
+## Work Package 3
+
+Recommendations for future wearable light logging devices: towards spatially-resolved measurements.
+
+- Contact: METAS
+- Email: [Constantinos.Bouroussis@metas.ch](mailto:Constantinos.Bouroussis@metas.ch?subject=MeLiDos&cc=Patrik.Caspar%40metas.ch)
