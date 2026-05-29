@@ -1,0 +1,27 @@
+/* Keep headings aligned with the site's simple sans-serif body text on GitHub Pages. */
+:root {
+  --melidos-heading-font: "Poppins", Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.blog-title,
+.entry-title,
+.summary-title,
+.sqs-block-html h1,
+.sqs-block-html h2,
+.sqs-block-html h3,
+.sqs-block-html h4,
+.sqs-block-html h5,
+.sqs-block-html h6,
+.accordion-item__title,
+.accordion-item__title-wrapper,
+.header-title-text,
+.site-title {
+  font-family: var(--melidos-heading-font) !important;
+  font-weight: 400 !important;
+}
